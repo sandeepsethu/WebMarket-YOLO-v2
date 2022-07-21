@@ -12,7 +12,7 @@ This included cleaning the data and modifying it to the YOLO format of x_center,
 
 After this, the dataset was split into train, test and validation split. This was done using the script at: https://github.com/sandeepsethu/WebMarket-YOLO-v2/blob/main/create_train%2Ctest%2Cval_split.ipynb
 
-The dataset obtained after this with the whole directory was uploaded to github.
+The dataset obtained after this with the whole directory was uploaded to github @ https://github.com/sandeepsethu/WebMarket-YOLO-v2/tree/main/dataset
 
 The https://github.com/sandeepsethu/WebMarket-YOLO-v2/blob/main/yolov3x.yaml and https://github.com/sandeepsethu/WebMarket-YOLO-v2/blob/main/webmarket.yaml are the configuration files for the model which were modified for just one class and uploaded to google drive as well.
 
