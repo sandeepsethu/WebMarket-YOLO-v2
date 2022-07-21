@@ -1,7 +1,7 @@
-train: ../content/WebMarket-YOLO-v2/dataset/images/train
-val: ../content/WebMarket-YOLO-v2/dataset/images/val
-test: ../content/WebMarket-YOLO-v2/dataset/images/test
+train: ../WebMarket-YOLO-v2/dataset/images/train
+val: ../WebMarket-YOLO-v2/dataset/images/val
+test: ../WebMarket-YOLO-v2/dataset/images/test
 
-nc: 0
+nc: 1
 
 names: ['object']
