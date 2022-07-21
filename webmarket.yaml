@@ -1,5 +1,6 @@
-train: ../clothing/images/train/
-val: ../clothing/images/val/
+train: ../content/WebMarket-YOLO-v2/dataset/images/train
+val: ../content/WebMarket-YOLO-v2/dataset/images/val
+test: ../content/WebMarket-YOLO-v2/dataset/images/test
 
 nc: 0
 
