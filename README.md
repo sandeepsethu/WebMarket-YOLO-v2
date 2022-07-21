@@ -21,3 +21,6 @@ The dataset and the config files were then used along with the YOLOv3 model avai
 Best weights obtained were downloaded and uploaded to google drive as mentioned here : https://github.com/sandeepsethu/WebMarket-YOLO-v2/blob/main/best-weights.readme
 
 The script also includes the final inference and visualizations of the confidence scores.
+
+
+<iframe src="https://wandb.ai/sandeepsethu/YOLOv3/reports/Training-Report--VmlldzoyMzU1NDY0" style="border:none;height:1024px;width:100%">
