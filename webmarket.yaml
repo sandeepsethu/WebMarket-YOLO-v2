@@ -1,0 +1,6 @@
+train: ../clothing/images/train/
+val: ../clothing/images/val/
+
+nc: 0
+
+names: ['object']
